@@ -15,6 +15,7 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Guia para mejorar el rendimiento de tu aplicación (EN)](https://laravel-news.com/performance-checklist)
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Botón de borrado que cambia su apariencia (EN)](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
+
 ## FrontEnd
 ### HTML
 ### CSS
@@ -22,10 +23,10 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 ### Javascript
 ### Varios
 
-
 ## SQL (MySQL / MariaDB)
 
 ## Git
 - [Filosofía de ramas en Git (ES)](https://jesuslc.com/2012/11/24/una-buena-manera-de-afrontar-la-ramificacion-branching-en-git/)
+- [Ahora toca Git Flow (ES)](https://jesuslc.com/2013/01/04/git-flow-primeros-pasos/)
 
 
