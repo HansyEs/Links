@@ -15,6 +15,9 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Guia para mejorar el rendimiento de tu aplicación (EN)](https://laravel-news.com/performance-checklist)
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Botón de borrado que cambia su apariencia (EN)](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
+- [Explicación sencilla de livewire con ejemplos, es una introducción (EN)](https://ralphjsmit.com/laravel-livewire-beginners/)
+- [Como instalar Vue3 y Laravel a mano (EN)](https://techvblogs.com/blog/how-to-install-vue3-laravel)
+- [Mapa de aprendizaje de Laravel, enlaces para aprender (EN)](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
 ## FrontEnd
 ### HTML
