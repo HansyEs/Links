@@ -25,6 +25,9 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Autenticación por JWT en Laravel (EN)](https://adevait.com/laravel/implementing-jwt-authentication-in-laravel)
 - [Generar las migraciones basandonos en una BBDD existente (EN)](https://github.com/bennett-treptow/laravel-migration-generator)
 - [Como usar Mongo en Laravel (ES)](https://styde.net/como-usar-mongodb-en-laravel/)
+- [Visualizador de logs bastante currado (EN)](https://laravelplug.com/laravel-log-viewer/)
+- [Como validar distintos tipos de archivos en el upload (EN)](https://minuteoflaravel.com/validation/how-to-validate-various-files-in-laravel/)
+- [Helpers de Laravel, revísalos y te pueden ayudar mucho (EN)](https://laravel.com/docs/9.x/helpers)
 #### TALL Stack
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
