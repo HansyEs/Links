@@ -28,6 +28,9 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Visualizador de logs bastante currado (EN)](https://laravelplug.com/laravel-log-viewer/)
 - [Como validar distintos tipos de archivos en el upload (EN)](https://minuteoflaravel.com/validation/how-to-validate-various-files-in-laravel/)
 - [Helpers de Laravel, revísalos y te pueden ayudar mucho (EN)](https://laravel.com/docs/9.x/helpers)
+- [Presentación de Lando, sistema para montar desarrollos locales (EN)](https://docs.google.com/presentation/d/1xwYPX_T7lWLiWv07n9svvwSuk19RVtIDCU4x1vm8nqY)
+- [Como usar Pest en Laravel, actualizado a 2022 (EN)] (https://ralphjsmit.com/pest-php-testing-laravel/)
+- [Notificaciones en distintos medios (EN)](https://laravel-notification-channels.com/)
 #### TALL Stack
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
