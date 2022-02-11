@@ -29,8 +29,11 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Como validar distintos tipos de archivos en el upload (EN)](https://minuteoflaravel.com/validation/how-to-validate-various-files-in-laravel/)
 - [Helpers de Laravel, revísalos y te pueden ayudar mucho (EN)](https://laravel.com/docs/9.x/helpers)
 - [Presentación de Lando, sistema para montar desarrollos locales (EN)](https://docs.google.com/presentation/d/1xwYPX_T7lWLiWv07n9svvwSuk19RVtIDCU4x1vm8nqY)
-- [Como usar Pest en Laravel, actualizado a 2022 (EN)] (https://ralphjsmit.com/pest-php-testing-laravel/)
+- [Como usar Pest en Laravel, actualizado a 2022 (EN)](https://ralphjsmit.com/pest-php-testing-laravel/)
 - [Notificaciones en distintos medios (EN)](https://laravel-notification-channels.com/)
+- [Almacenamiento en S3 de Amazón (EN)](https://laravel-news.com/using-s3-with-laravel)
+- [Generar CSV fácilmente (EN)](https://github.com/usmanhalalit/laracsv)
+- [Análisis del código del proyecto (EN)](https://github.com/nunomaduro/larastan)
 #### TALL Stack
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
@@ -46,6 +49,8 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Lo esencial de Alpine.js (EN)](https://laracasts.com/series/alpine-essentials)
 ### Varios
 - [30 extensiones de navegador que pueden interesarte (EN)](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
+- [Servicios gratis para desarrolladores (EN)](https://free-for.dev/#/)
+- [Curso de AVS (Vídeo)(EN)](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
 
 ## SQL (MySQL / MariaDB)
 
