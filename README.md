@@ -5,6 +5,7 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Curso V8 completo (Vídeo)(EN)](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 - [Paquete para usar y manipular imágenes (EN)](https://github.com/claviska/SimpleImage)
 - [Estandars PSR para escribir código en PHP (ES)](https://latteandcode.medium.com/estandares-psr-para-escribir-codigo-php-acc68d97f6d3)
+- [Excel en PHP. Ojo, la documentación no es buena (EN)](https://github.com/PHPOffice/PhpSpreadsheet)
 ### Laravel
 - [Paquete para generar rangos de horas (EN)](https://laravel-news.com/laravel-hours-helper)
 - [Crea tu propio Helper con tus funciones comunes (EN)](https://laravel-news.com/creating-helpers)
@@ -14,7 +15,6 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Paquete para facilitar el SEO (EN)](https://github.com/ser-gi-o/laranx-seo)
 - [Sistema de chat en tiempo real (EN)](https://github.com/nahid/talk)
 - [Guia para mejorar el rendimiento de tu aplicación (EN)](https://laravel-news.com/performance-checklist)
-- [Explicación sencilla de livewire con ejemplos, es una introducción (EN)](https://ralphjsmit.com/laravel-livewire-beginners/)
 - [Como instalar Vue3 y Laravel a mano (EN)](https://techvblogs.com/blog/how-to-install-vue3-laravel)
 - [Mapa de aprendizaje de Laravel, enlaces para aprender (EN)](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 - [Agilizar el uso de Docker en Laravel mediante Spin (EN)](https://serversideup.net/open-source/spin/)
@@ -34,19 +34,24 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 - [Almacenamiento en S3 de Amazón (EN)](https://laravel-news.com/using-s3-with-laravel)
 - [Generar CSV fácilmente (EN)](https://github.com/usmanhalalit/laracsv)
 - [Análisis del código del proyecto (EN)](https://github.com/nunomaduro/larastan)
+- [Enviar notificaciones push con firebase (EN)](https://www.itsolutionstuff.com/post/laravel-firebase-push-notification-tutorialexample.html)
+#### Artisan
+  - [Hoja de resumen (EN)](https://artisan.page/)
 #### TALL Stack
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
 - [Tarjetas de notificación para el stack TALL (EN)](https://github.com/usernotnull/tall-toasts)
 - [Botón de borrado que cambia su apariencia (EN)](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
+- [Explicación sencilla de livewire con ejemplos, es una introducción (EN)](https://ralphjsmit.com/laravel-livewire-beginners/)
+- [Tutorial de Alpine.js y curso interactivo (EN)](https://scrimba.com/learn/alpinejs)
+- [Lo esencial de Alpine.js (EN)](https://laracasts.com/series/alpine-essentials)
 
 ## FrontEnd
 ### HTML
+- [Plegable sin JS ni CSS (ES)](https://laravel-info.blogspot.com/2022/02/acordeones-sin-js-ni-css.html)
 ### CSS
 - [Animaciones varias para loaders (EN)](https://cssloaders.github.io/)
 ### Javascript
-- [Tutorial de Alpine.js y curso interactivo (EN)](https://scrimba.com/learn/alpinejs)
-- [Lo esencial de Alpine.js (EN)](https://laracasts.com/series/alpine-essentials)
 ### Varios
 - [30 extensiones de navegador que pueden interesarte (EN)](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores (EN)](https://free-for.dev/#/)
