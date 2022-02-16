@@ -1,17 +1,20 @@
 # Mis enlaces
-El objeto de esta lista es permitir a cualquiera que lo necesite consultar una lista de enlaces relacionados con el desarrollo de software que por algún motivo me han parecido de interes. 
+El objeto de esta lista es permitir, a cualquiera que lo necesite, consultar una lista de enlaces relacionados con el desarrollo de software y que por algún motivo me han parecido de interes.
+
+La estructura del documento y sus enlaces van cambiando a lo largo del tiempo. Siempre marco si el contenido está en (EN) Inglés o en (ES) Español y si tiene este símbolo 🎞️ se trata de vídeos.
+
 ## BackEnd
 ### PHP
-- [Curso V8 completo (Vídeo)(EN)](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- [Curso V8 completo 🎞️(EN)](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 - [Paquete para usar y manipular imágenes (EN)](https://github.com/claviska/SimpleImage)
-- [Estandars PSR para escribir código en PHP (ES)](https://latteandcode.medium.com/estandares-psr-para-escribir-codigo-php-acc68d97f6d3)
+- [Estandars PSR para escribir código en PHP 🇪🇸 (ES)](https://latteandcode.medium.com/estandares-psr-para-escribir-codigo-php-acc68d97f6d3)
 - [Excel en PHP. Ojo, la documentación no es buena (EN)](https://github.com/PHPOffice/PhpSpreadsheet)
 ### Laravel
 - [Paquete para generar rangos de horas (EN)](https://laravel-news.com/laravel-hours-helper)
 - [Crea tu propio Helper con tus funciones comunes (EN)](https://laravel-news.com/creating-helpers)
 - [Detectar vulnerabilidades desde la línea de comandos (EN)](https://laravel-news.com/cli-to-check-for-php-security-vulnerabilities)
 - [Paquete para acceder sin password a una aplicación (EN)](https://github.com/grosv/laravel-passwordless-login)
-- [Videos sobre PEST, test unitarios (EN)](https://www.youtube.com/channel/UCQIrK03uD-T69usLC8o3Spg)
+- [Videos sobre PEST, test unitarios 🎞️ (EN)](https://www.youtube.com/channel/UCQIrK03uD-T69usLC8o3Spg)
 - [Paquete para facilitar el SEO (EN)](https://github.com/ser-gi-o/laranx-seo)
 - [Sistema de chat en tiempo real (EN)](https://github.com/nahid/talk)
 - [Guia para mejorar el rendimiento de tu aplicación (EN)](https://laravel-news.com/performance-checklist)
@@ -55,7 +58,7 @@ El objeto de esta lista es permitir a cualquiera que lo necesite consultar una l
 ### Varios
 - [30 extensiones de navegador que pueden interesarte (EN)](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores (EN)](https://free-for.dev/#/)
-- [Curso de AVS (Vídeo)(EN)](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
+- [Curso de AVS 🎞️ (EN)](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
 
 ## SQL (MySQL / MariaDB)
 
