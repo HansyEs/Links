@@ -1,7 +1,8 @@
 # Mis enlaces
 El objeto de esta lista es permitir, a cualquiera que lo necesite, consultar una lista de enlaces relacionados con el desarrollo de software y que por algún motivo me han parecido de interes.
 
-La estructura del documento y sus enlaces van cambiando a lo largo del tiempo. Siempre marco si el contenido está en (EN) Inglés o en (ES) Español y si tiene este símbolo 🎞️ se trata de vídeos.
+Siempre marco si el contenido está en (EN) Inglés o en (ES) Español y si tiene este símbolo 🎞️ se trata de vídeos.
+La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, así que si crees que algún enlace no funciona o que hay que añadir un enlace nuevo escríbeme a 
 
 ## BackEnd
 ### PHP
