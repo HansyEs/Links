@@ -10,6 +10,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Paquete para usar y manipular imágenes (EN)](https://github.com/claviska/SimpleImage)
 - [Estandars PSR para escribir código en PHP 🇪🇸 (ES)](https://latteandcode.medium.com/estandares-psr-para-escribir-codigo-php-acc68d97f6d3)
 - [Excel en PHP. Ojo, la documentación no es buena (EN)](https://github.com/PHPOffice/PhpSpreadsheet)
+- [TDD con PEST (EN)](https://dev.to/robertobutti/tdd-with-pestphp-13c3)
 ### Laravel
 - [Paquete para generar rangos de horas (EN)](https://laravel-news.com/laravel-hours-helper)
 - [Crea tu propio Helper con tus funciones comunes (EN)](https://laravel-news.com/creating-helpers)
@@ -39,6 +40,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Generar CSV fácilmente (EN)](https://github.com/usmanhalalit/laracsv)
 - [Análisis del código del proyecto (EN)](https://github.com/nunomaduro/larastan)
 - [Enviar notificaciones push con firebase (EN)](https://www.itsolutionstuff.com/post/laravel-firebase-push-notification-tutorialexample.html)
+- [Configura en SAIL el debug dentro de VSCode sin complicaciones (ES)](https://manuelojeda.xyz/Blog/configura-tu-laravel-sail-para-debuggear-en-vscode-sin-tanto-rollo-en-linux)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
 #### TALL Stack
@@ -60,6 +62,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [30 extensiones de navegador que pueden interesarte (EN)](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores (EN)](https://free-for.dev/#/)
 - [Curso de AVS 🎞️ (EN)](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
+- [APIs públicas que pueden serte de utilidad (EN)](https://github.com/public-apis/public-apis)
 
 ## SQL (MySQL / MariaDB)
 
