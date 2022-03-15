@@ -11,6 +11,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Estandars PSR para escribir código en PHP 🇪🇸 (ES)](https://latteandcode.medium.com/estandares-psr-para-escribir-codigo-php-acc68d97f6d3)
 - [Excel en PHP. Ojo, la documentación no es buena (EN)](https://github.com/PHPOffice/PhpSpreadsheet)
 - [TDD con PEST (EN)](https://dev.to/robertobutti/tdd-with-pestphp-13c3)
+- [Metodos mágicos en PHP (EN)](https://code.tutsplus.com/tutorials/php-magic-methods-cheat-sheet--cms-34681)
 ### Laravel
 - [Paquete para generar rangos de horas (EN)](https://laravel-news.com/laravel-hours-helper)
 - [Crea tu propio Helper con tus funciones comunes (EN)](https://laravel-news.com/creating-helpers)
@@ -41,8 +42,10 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Análisis del código del proyecto (EN)](https://github.com/nunomaduro/larastan)
 - [Enviar notificaciones push con firebase (EN)](https://www.itsolutionstuff.com/post/laravel-firebase-push-notification-tutorialexample.html)
 - [Configura en SAIL el debug dentro de VSCode sin complicaciones (ES)](https://manuelojeda.xyz/Blog/configura-tu-laravel-sail-para-debuggear-en-vscode-sin-tanto-rollo-en-linux)
+- [Buenas prácticas en Laravel (ES)](https://github.com/alexeymezenin/laravel-best-practices/blob/master/spanish.md)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
+  - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
 #### TALL Stack
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
