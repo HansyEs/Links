@@ -56,6 +56,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Un kanban sencillo (EN)](https://github.com/asantibanez/livewire-status-board)
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
+- [Ejemplo de ordenación de elementos JS y Livewire 🎞️ (EN)](https://laravel-livewire.com/screencasts/s8-dragging-list)
 
 ## FrontEnd
 ### HTML
