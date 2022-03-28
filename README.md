@@ -47,20 +47,23 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
   - [Hoja de resumen (EN)](https://artisan.page/)
   - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
 #### TALL Stack
-- [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
-- [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
 - [Tarjetas de notificación para el stack TALL (EN)](https://github.com/usernotnull/tall-toasts)
 - [Botón de borrado que cambia su apariencia (EN)](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
-- [Explicación sencilla de livewire con ejemplos, es una introducción (EN)](https://ralphjsmit.com/laravel-livewire-beginners/)
 - [Tutorial de Alpine.js y curso interactivo (EN)](https://scrimba.com/learn/alpinejs)
 - [Lo esencial de Alpine.js (EN)](https://laracasts.com/series/alpine-essentials)
+#### LiveWire
+- [Explicación sencilla de livewire con ejemplos, es una introducción (EN)](https://ralphjsmit.com/laravel-livewire-beginners/)
+- [Un kanban sencillo (EN)](https://github.com/asantibanez/livewire-status-board)
+- [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
+- [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
 
 ## FrontEnd
 ### HTML
 - [Plegable sin JS ni CSS (ES)](https://laravel-info.blogspot.com/2022/02/acordeones-sin-js-ni-css.html)
 ### CSS
 - [Animaciones varias para loaders (EN)](https://cssloaders.github.io/)
-### Javascript
+### Javascriptç
+- [Como hacer un canvas para firmar (EN)](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
 ### Varios
 - [30 extensiones de navegador que pueden interesarte (EN)](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores (EN)](https://free-for.dev/#/)
