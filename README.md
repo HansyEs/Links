@@ -43,6 +43,8 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Enviar notificaciones push con firebase (EN)](https://www.itsolutionstuff.com/post/laravel-firebase-push-notification-tutorialexample.html)
 - [Configura en SAIL el debug dentro de VSCode sin complicaciones (ES)](https://manuelojeda.xyz/Blog/configura-tu-laravel-sail-para-debuggear-en-vscode-sin-tanto-rollo-en-linux)
 - [Buenas prácticas en Laravel (ES)](https://github.com/alexeymezenin/laravel-best-practices/blob/master/spanish.md)
+- [Retorno/respuesta facil para un API (EN)](https://github.com/obiefy/api-response?ref=madewithlaravel.com)
+- [WebSockets en Laravel por fin comunicaciones entre back y front con todo en Laravel (EN)](https://beyondco.de/docs/laravel-websockets/getting-started/introduction)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
   - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
