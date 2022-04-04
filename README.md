@@ -46,6 +46,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Retorno/respuesta facil para un API (EN)](https://github.com/obiefy/api-response?ref=madewithlaravel.com)
 - [WebSockets en Laravel por fin comunicaciones entre back y front con todo en Laravel (EN)](https://beyondco.de/docs/laravel-websockets/getting-started/introduction)
 - [Redefinir la obtención de datos en Eloquent (EN)](https://martinjoo.dev/build-your-own-laravel-query-builders)
+- [Mensajes tipo TOAST para notificar al usuario información (EN)](https://github.com/ascsoftw/livewire-toast)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
   - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
