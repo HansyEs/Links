@@ -48,6 +48,10 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [WebSockets en Laravel por fin comunicaciones entre back y front con todo en Laravel (EN)](https://beyondco.de/docs/laravel-websockets/getting-started/introduction)
 - [Redefinir la obtención de datos en Eloquent (EN)](https://martinjoo.dev/build-your-own-laravel-query-builders)
 - [Mensajes tipo TOAST para notificar al usuario información (EN)](https://github.com/ascsoftw/livewire-toast)
+- [Añade todas las rutas posibles analizando el controlador (EN) es mágia](https://github.com/izniburak/laravel-auto-routes?ref=madewithlaravel.com)
+- [Extender componentes de Blade (EN) Muy util si vamos a usar Tailwind](https://tighten.com/blog/extensible-blade-components/)
+- [Pequeños trucos en Laravel (EN)](https://ashallendesign.co.uk/blog/20-useful-laravel-tips)
+- [Un CMS para Laravel (EN)](https://aloiacms.com/)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
   - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
@@ -62,6 +66,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Componente LiveWire de calendario bastante completo (EN)](https://github.com/asantibanez/livewire-calendar)
 - [Como lanzar un modal con un componente Livewire (EN)](https://github.com/wire-elements/modal)
 - [Ejemplo de ordenación de elementos JS y Livewire 🎞️ (EN)](https://laravel-livewire.com/screencasts/s8-dragging-list)
+- [Como integrar SweetAletr con Livewire (EN)](https://github.com/akhled/livewire-sweetalert)
 
 ## FrontEnd
 ### HTML
