@@ -52,6 +52,8 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Extender componentes de Blade (EN) Muy util si vamos a usar Tailwind](https://tighten.com/blog/extensible-blade-components/)
 - [Pequeños trucos en Laravel (EN)](https://ashallendesign.co.uk/blog/20-useful-laravel-tips)
 - [Un CMS para Laravel (EN)](https://aloiacms.com/)
+- [Panel de administración gratuito (EN)](https://orchid.software/)
+- [Generador de migraciones de un modelo existente (EN)](https://github.com/Xethron/migrations-generator)
 #### Artisan
   - [Hoja de resumen (EN)](https://artisan.page/)
   - [Crear comandos de tipo make:command (EN)](https://laravel.io/articles/create-makecustom-commands)
