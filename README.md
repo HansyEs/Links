@@ -75,6 +75,15 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Plegable sin JS ni CSS (ES)](https://laravel-info.blogspot.com/2022/02/acordeones-sin-js-ni-css.html)
 ### CSS
 - [Animaciones varias para loaders (EN)](https://cssloaders.github.io/)
+- [Más animaciones para loaders (EN)](https://tobiasahlin.com/spinkit/)
+- [Generador de fondos a rayas (EN)](https://stripesgenerator.com/)
+- [Generador de contenedores FLEX (EN)](https://cssflex-generator.netlify.app/)
+- [Generador de contenedores Grid (EN)](https://cssgrid-generator.netlify.app/)
+- [Generador de gradientes (EN)](https://cssgradient.io/)
+- [Sombras para cajas (EN)](https://box-shadow.dev/)
+- [Transiciones (EN)](https://www.transition.style/)
+- [Animaciones (EN)](https://animate.style/)
+- [Normalizador, para partir con la misma apariencia en todos los navegadores (EN)](https://necolas.github.io/normalize.css/)
 ### Javascriptç
 - [Como hacer un canvas para firmar (EN)](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
 ### Varios
