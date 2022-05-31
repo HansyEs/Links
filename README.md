@@ -13,6 +13,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [TDD con PEST](https://dev.to/robertobutti/tdd-with-pestphp-13c3)
 - [Metodos mágicos en PHP](https://code.tutsplus.com/tutorials/php-magic-methods-cheat-sheet--cms-34681)
 ### Laravel
+- [Normas para llamar a las cosas en Laravel (Controladores, Modelos, tablas y campos, ...)](https://webdevetc.com/blog/laravel-naming-conventions/)
 - [Sandbox para "jugar" y probar cosas en el mismo navegador sin instalarlo](https://phpsandbox.io/)
 - [Lista de enlaces muy interesantes](https://github.com/putheakhem/AwesomeLaravel) 
 - [Paquete para generar rangos de horas](https://laravel-news.com/laravel-hours-helper)
