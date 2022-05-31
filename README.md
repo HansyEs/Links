@@ -56,8 +56,8 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Panel de administración gratuito](https://orchid.software/)
 - [Generador de migraciones de un modelo existente](https://github.com/Xethron/migrations-generator)
 #### Artisan
-  - [Hoja de resumen](https://artisan.page/)
-  - [Crear comandos de tipo make:command](https://laravel.io/articles/create-makecustom-commands)
+- [Hoja de resumen](https://artisan.page/)
+- [Crear comandos de tipo make:command](https://laravel.io/articles/create-makecustom-commands)
 #### TALL Stack
 - [Tarjetas de notificación para el stack TALL](https://github.com/usernotnull/tall-toasts)
 - [Botón de borrado que cambia su apariencia](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
@@ -87,6 +87,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Normalizador, para partir con la misma apariencia en todos los navegadores](https://necolas.github.io/normalize.css/)
 ### Javascriptç
 - [Como hacer un canvas para firmar](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
+- [Ahora las peticiones AJAX se hacen con FETCH (ES) incluye también videos](https://pablomonteserin.com/curso/javascript/ejemplos-api-fetch/)
 ### Varios
 - [30 extensiones de navegador que pueden interesarte](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores](https://free-for.dev/#/)
