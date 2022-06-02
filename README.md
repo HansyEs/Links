@@ -56,6 +56,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Un CMS para Laravel](https://aloiacms.com/)
 - [Panel de administración gratuito](https://orchid.software/)
 - [Generador de migraciones de un modelo existente](https://github.com/Xethron/migrations-generator)
+- [Usando el helper str() muy buena práctica para hacer más legible el código u no pegarse con las funciones mb_](https://beyondco.de/blog/the-magic-of-the-laravel-str-helper)
 #### Artisan
 - [Hoja de resumen](https://artisan.page/)
 - [Crear comandos de tipo make:command](https://laravel.io/articles/create-makecustom-commands)
