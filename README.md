@@ -88,13 +88,13 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Transiciones](https://www.transition.style/)
 - [Animaciones](https://animate.style/)
 - [Normalizador, para partir con la misma apariencia en todos los navegadores](https://necolas.github.io/normalize.css/)
-### Javascriptç
+### Javascript
 - [Como hacer un canvas para firmar](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
 - [Ahora las peticiones AJAX se hacen con FETCH (ES) incluye también videos](https://pablomonteserin.com/curso/javascript/ejemplos-api-fetch/)
 ### Varios
 - [30 extensiones de navegador que pueden interesarte](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
 - [Servicios gratis para desarrolladores](https://free-for.dev/#/)
-- [Curso de AVS 🎞️](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
+- [Curso de AWS 🎞️](https://youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
 - [APIs públicas que pueden serte de utilidad](https://github.com/public-apis/public-apis)
 
 ## Git
