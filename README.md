@@ -58,6 +58,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Generador de migraciones de un modelo existente](https://github.com/Xethron/migrations-generator)
 - [Usando el helper str() muy buena práctica para hacer más legible el código u no pegarse con las funciones mb_](https://beyondco.de/blog/the-magic-of-the-laravel-str-helper)
 - [Algunas técnicas con rutas](https://laravel-news.com/laravel-route-organization-tips)
+- [Módulo para SEO](https://github.com/artesaos/seotools)
 #### Artisan
 - [Hoja de resumen](https://artisan.page/)
 - [Crear comandos de tipo make:command](https://laravel.io/articles/create-makecustom-commands)
@@ -66,6 +67,7 @@ La estructura del documento y sus enlaces van cambiando a lo largo del tiempo, a
 - [Botón de borrado que cambia su apariencia](https://rappasoft.com/blog/snippet-5-creating-a-simple-but-cool-delete-button-with-alpinejs-and-tailwindcss)
 - [Tutorial de Alpine.js y curso interactivo](https://scrimba.com/learn/alpinejs)
 - [Lo esencial de Alpine.js](https://laracasts.com/series/alpine-essentials)
+- [AlpineUI libreria de interface](https://devdojo.com/pines/docs/command)
 #### LiveWire
 - [Explicación sencilla de livewire con ejemplos, es una introducción](https://ralphjsmit.com/laravel-livewire-beginners/)
 - [Un kanban sencillo](https://github.com/asantibanez/livewire-status-board)
